@@ -25,10 +25,10 @@ a {
 	text-decoration: none;
 }
 a:link {
-	color: #990000;
+	color: #75aadb;
 }
 a:visited {
-	color: #990000;
+	color: #75aadb;
 }
 a:hover {
 	text-decoration: underline;
@@ -82,7 +82,7 @@ a:active {
 	font-weight: bold;
 }
 .sidecol .menu a:visited {
-	color: #990000;
+	color: #75aadb;
 }
 
 .sidecol .site-btns {
@@ -100,7 +100,7 @@ a:active {
 	color: #000000;
 }
 .sidecol .site-btns a:hover {
-	color: #990000;
+	color: #75aadb;
 }
 
 .sidecol h3 {
