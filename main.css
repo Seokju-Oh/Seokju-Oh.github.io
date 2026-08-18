@@ -234,3 +234,9 @@ a:active {
   font-weight: normal;
   color: #888;
 }
+
+.maintext p {
+  text-align: justify;
+  -webkit-hyphens: auto;
+  hyphens: auto;
+}
